@@ -18,7 +18,7 @@ sticky = true
   text = "Makeupedia"
 
 [repo_button]
-  url = "https://github.com/rootsongjc/makeupedia"
+  url = "https://github.com/makeupedia/makeupedia"
   text = "Star" # default: "Star"
   icon = "fab fa-github" # defaults: "fab fa-github"
 

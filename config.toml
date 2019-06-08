@@ -100,7 +100,7 @@ googleAnalytics = ""
 [[menu.footer_social]]
   weight = 30
   name = "github"
-  url = "https://github.com/rootsongjc"
+  url = "https://github.com/makeupedia"
   pre = "fab fa-github fa-stack-2x"
 
 [[menu.copyright_footer]]
