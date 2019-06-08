@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://jimmysong.io"
+baseurl = "https://makeupedia.github.io/"
 languageCode = "zh"
 languageLang = "中文"
 hasCJKLanguage = true
