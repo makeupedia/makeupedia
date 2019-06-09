@@ -16,4 +16,4 @@ optional sidebar.
 
 - [Without sidebar](#content)
 - [With sidebar](#content-sidebar)
-- [With sidebar aligned right](#content-sidebar-right)
+  - [With sidebar aligned right](#content-sidebar-right)

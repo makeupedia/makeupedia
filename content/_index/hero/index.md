@@ -19,7 +19,7 @@ subtitle = "你的私人美妆助理"
 
 [[buttons]]
   text = "美妆百科"
-  url = "#features"
+  url = "/wiki/"
   color = "info" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
 
 [[buttons]]
